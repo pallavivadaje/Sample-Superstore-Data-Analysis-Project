@@ -2,11 +2,9 @@
 # 📊 Sample Superstore Data Analysis Project
 
 ## 📌 Project Overview
-
-This project demonstrates a complete Data Analysis workflow using the Sample Superstore dataset. Data was cleaned in Excel, analyzed using SQL workbench, visualized through an interactive Power BI dashboard, and explored further using Python EDA. The project provides valuable insights into sales, profit, regional performance, and business trends.
+This project demonstrates a complete Data Analysis workflow using the Sample Superstore dataset. Data was cleaned in Excel, analyzed using MySQL workbench, visualized through an interactive Power BI dashboard, and explored further using Python EDA. The project provides valuable insights into sales, profit, regional performance, and business trends.
 
 ## 🎯 Objectives
-
 - Clean and prepare the dataset for analysis.
 - Analyze sales and profit performance.
 - Identify trends and business opportunities.
@@ -14,13 +12,10 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 - Generate business insights and recommendations.
 
 ## 🛠️ Tools Used
-
 - Microsoft Excel
-- SQL workbench
+- MySQL workbench
 - Power BI
-- Python (Pandas, Matplotlib, Seaborn)
-
----
+- Python (Numpy, Pandas, Matplotlib)
 
 ## 📂 Project Workflow
 
@@ -30,7 +25,7 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 - Handled missing values
 - Standardized data formats
 
-### 🗄️ SQL Workbench
+### 🗄️ MySQL Workbench
 - Total Sales Analysis
 - Total Profit Analysis
 - Region-wise Revenue Analysis
@@ -52,7 +47,8 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 - Sales Distribution Analysis
 - Profit Analysis
 - Correlation Analysis
-- Data Visualization using Matplotlib and Seaborn
+- Data Visualization using Matplotlib 
+  
 ## 📁 Project Files
 
 | File Name | Description |
@@ -66,7 +62,6 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 | `Project_Summary.pdf` | Final project summary with insights and recommendations |
 
 ## 📈 Key Insights
-
 - Technology category generated strong sales performance.
 - Some sub-categories had high sales but low profit.
 - Higher discounts often reduced profitability.
@@ -74,7 +69,6 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 - Sales and profit trends varied across categories and states.
 
 ## 💡 Recommendations
-
 1. Focus on high-profit categories and products.
 2. Reduce excessive discounts on low-margin items.
 3. Improve sales strategies in underperforming regions.
@@ -82,7 +76,6 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 5. Use dashboard insights for better business decisions.
 
 ## 🚀 Skills Demonstrated
-
 - Data Cleaning
 - Data Analysis
 - SQL Query Writing
@@ -93,13 +86,10 @@ This project demonstrates a complete Data Analysis workflow using the Sample Sup
 - Insight Generation
 
 ## 📋 Project Summary
-
 This project showcases an end-to-end Data Analysis process using Excel, SQL Server, Power BI, and Python. From data cleaning and SQL analysis to dashboard development and exploratory data analysis, the project demonstrates how raw business data can be transformed into meaningful insights that support data-driven decision-making.
 
 ### 👩‍💻 Author
-
 **Pallavi Vadaje**
-
 Aspiring Data Analyst | B.Sc. Computer Science
 
 ⭐ If you found this project helpful, feel free to give it a star!
